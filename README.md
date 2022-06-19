@@ -10,4 +10,7 @@ Live Update with safe active bank switch (Dual Bank).
 4. Upload live update app hex file with java ui UnifiedHost-1.17.0.jar under /tools by executing dos command
    1. java -Djava.util.logging.config.file="logging.properties" -jar UnifiedHost-1.17.0.jar
 
-![D:\OneDrive\Pictures\Microchip\curiosity_v2_plus_lan8740_docklight.PNG](D:\OneDrive\Pictures\Microchip\curiosity_v2_plus_lan8740_docklight.PNG)
+
+
+
+<img src="\imgs\20220619_184731.jpg"/>
